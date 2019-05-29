@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\bin\Debug\E50_FizzBuzz.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\bin\Debug\E50_FizzBuzz.exe
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\bin\Debug\E50_FizzBuzz.pdb
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\obj\Debug\E50_FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\obj\Debug\E50_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\obj\Debug\E50_FizzBuzz.exe
+C:\Users\Fam RN\source\Ejercicios C\E50_FizzBuzz\E50_FizzBuzz\obj\Debug\E50_FizzBuzz.pdb
